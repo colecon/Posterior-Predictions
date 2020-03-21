@@ -13,7 +13,7 @@ h5: 100% lime
 
 Write code to generate a data set of length 100 and plot the corresponding graphs for the predictions of which bag of candy you are picking from. 
 
-Predict the outcome by using Bayes Rule and the Posterior Probabability formula.
+Predict the outcome by using Bayes Learning Algorithm and the Posterior Probabability formula.
 Posterior probability = prior probability + new evidence (called likelihood)
 P(hi|d1,...,dN) and P(DN+1=lime|d1,...,dN). 
 
