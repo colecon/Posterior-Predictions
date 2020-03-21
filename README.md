@@ -16,3 +16,5 @@ Write code to generate a data set of length 100 and plot the corresponding graph
 Predict the outcome by using Bayes Rule and the Posterior Probabability formula.
 Posterior probability = prior probability + new evidence (called likelihood)
 P(hi|d1,...,dN) and P(DN+1=lime|d1,...,dN). 
+
+*The Attached PDF is from a major Project. Refer only to question 2a.
